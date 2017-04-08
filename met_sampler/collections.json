@@ -598,7 +598,8 @@
         }
     ],
     "name": "Masterpiece Paintings"
-}{
+},
+{
     "id": "cats",
     "collection": [
         {
@@ -831,7 +832,8 @@
         }
     ],
     "name": "Cats"
-}{
+},
+{
     "id": "monsters_and_mythological_creatures",
     "collection": [
         {
@@ -1038,7 +1040,8 @@
         }
     ],
     "name": "Monsters and Mythological Creatures"
-}{
+},
+{
     "id": "met_staches",
     "collection": [
         {
@@ -1265,7 +1268,8 @@
         }
     ],
     "name": "Met-staches"
-}{
+},
+{
     "id": "new_york_city",
     "collection": [
         {
@@ -1521,7 +1525,8 @@
         }
     ],
     "name": "New York City"
-}{
+},
+{
     "id": "impressionism_and_post_impressionism",
     "collection": [
         {
@@ -2002,7 +2007,8 @@
         }
     ],
     "name": "Impressionism and Post-Impressionism"
-}{
+},
+{
     "id": "winter_wonderland",
     "collection": [
         {
@@ -2262,7 +2268,8 @@
         }
     ],
     "name": "Winter Wonderland"
-}{
+},
+{
     "id": "vincent_van_gogh",
     "collection": [
         {
@@ -2617,7 +2624,8 @@
         }
     ],
     "name": "Vincent van Gogh"
-}{
+},
+{
     "id": "the_pre_raphaelite_style",
     "collection": [
         {
@@ -2925,7 +2933,8 @@
         }
     ],
     "name": "The Pre-Raphaelite Style"
-}{
+},
+{
     "id": "self_portraits",
     "collection": [
         {
@@ -3333,7 +3342,8 @@
         }
     ],
     "name": "Self-Portraits"
-}{
+},
+{
     "id": "quilts",
     "collection": [
         {
@@ -3679,7 +3689,8 @@
         }
     ],
     "name": "Quilts"
-}{
+},
+{
     "id": "gold",
     "collection": [
         {
@@ -3994,7 +4005,8 @@
         }
     ],
     "name": "Gold"
-}{
+},
+{
     "id": "georges_seurat",
     "collection": [
         {
@@ -4299,7 +4311,8 @@
         }
     ],
     "name": "Georges Seurat"
-}{
+},
+{
     "id": "arms_and_armor",
     "collection": [
         {
@@ -4678,7 +4691,8 @@
         }
     ],
     "name": "Arms and Armor"
-}{
+},
+{
     "id": "the_monuments_men_at_the_met",
     "collection": [
         {
@@ -4933,7 +4947,8 @@
         }
     ],
     "name": "The Monuments Men at The Met"
-}{
+},
+{
     "id": "faces_from_the_ancient_world",
     "collection": [
         {
@@ -5145,7 +5160,8 @@
         }
     ],
     "name": "Faces from the Ancient World"
-}{
+},
+{
     "id": "tiffany_glass",
     "collection": [
         {
@@ -5567,7 +5583,8 @@
         }
     ],
     "name": "Tiffany Glass"
-}{
+},
+{
     "id": "dress_to_impress",
     "collection": [
         {
@@ -5835,7 +5852,8 @@
         }
     ],
     "name": "Dress to Impress"
-}{
+},
+{
     "id": "art_or_design",
     "collection": [
         {
@@ -6118,7 +6136,8 @@
         }
     ],
     "name": "Art or Design?"
-}{
+},
+{
     "id": "dishes",
     "collection": [
         {
