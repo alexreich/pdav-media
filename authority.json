@@ -1,15 +1,17 @@
 {
     "name": "PDAV",
-    "sources":
-    {
-        "name": "The Met Public Domain Sampler",
-        "origin": {
-            "name":"The Metropolitan Museum of Art",
-            "location":"New York, NY",
-            "url":"http://www.metmuseum.org/"
-        },
-        "collection_url": "met_sampler",
-        "last_updated": "4/7/2017",
-        "last_updated_by": "Alex Reich"
-    }
+    "url": "",
+    "sources": [
+        {
+            "name": "The Met Public Domain Sampler",
+            "origin": {
+                "name": "The Metropolitan Museum of Art",
+                "location": "New York, NY",
+                "url": "http://www.metmuseum.org/"
+            },
+            "collection_url": "met_sampler",
+            "last_updated": "4/7/2017",
+            "last_updated_by": "Alex Reich"
+        }
+    ]
 }
