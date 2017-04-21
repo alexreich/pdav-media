@@ -12,6 +12,17 @@
             "id": "met_sampler",
             "last_updated": "4/7/2017",
             "last_updated_by": "Alex Reich"
+        },
+        {
+            "name": "Wikipedia Paintings",
+            "origin": {
+                "name": "Wikipedia",
+                "location": "San Francisco, CA",
+                "url": "https://en.wikipedia.org/wiki/Wikipedia:Featured_pictures/Artwork/Paintings"
+            },
+            "id": "https://s3.us-east-2.amazonaws.com/pdav/wikipedia_paintings/wikipedia_paintings",
+            "last_updated": "4/7/2017",
+            "last_updated_by": "Alex Reich"
         }
     ]
 }
