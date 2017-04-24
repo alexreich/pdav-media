@@ -1,0 +1,23 @@
+[
+    {
+        "id": "featured_samples",
+        "collection": [
+            {
+                "title": "George Washington (Vaughan-Sinclair portrait)",
+                "artist": "Gilbert Stuart",
+                "filename": "A18269.jpg"
+            },
+            {
+                "title": "Self-Portrait (Rembrandt)",
+                "artist": "Rembrandt van Rijn",
+                "filename": "A18640.jpg"
+            },
+            {
+                "title": "Ginevra de' Benci [obverse]",
+                "artist": "Leonardo da Vinci",
+                "filename": "A14623.jpg"
+            }
+        ],
+        "name": "Featured Samples"
+    }
+]

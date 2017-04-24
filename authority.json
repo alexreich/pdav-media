@@ -3,13 +3,24 @@
     "url": "",
     "sources": [
         {
-            "name": "The Met Public Domain Sampler",
+            "name": "Met Public Domain Sampler",
             "origin": {
                 "name": "The Metropolitan Museum of Art",
                 "location": "New York, NY",
                 "url": "http://www.metmuseum.org/"
             },
             "id": "met_sampler",
+            "last_updated": "4/7/2017",
+            "last_updated_by": "Alex Reich"
+        },
+        {
+            "name": "National Gallery of Art",
+            "origin": {
+                "name": "National Gallery of Art",
+                "location": "Washington, DC",
+                "url": "http://www.nga.gov/"
+            },
+            "id": "nga_sampler",
             "last_updated": "4/7/2017",
             "last_updated_by": "Alex Reich"
         },
