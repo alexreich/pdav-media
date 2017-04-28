@@ -5,17 +5,57 @@
             {
                 "title": "George Washington (Vaughan-Sinclair portrait)",
                 "artist": "Gilbert Stuart",
-                "filename": "A18269.jpg"
+                "filename": "A18269.jpg",
+                "link_resource": "http://www.nga.gov/content/ngaweb/Collection/art-object-page.565.html"
             },
             {
                 "title": "Self-Portrait (Rembrandt)",
                 "artist": "Rembrandt van Rijn",
-                "filename": "A18640.jpg"
+                "filename": "A18640.jpg",
+                "link_resource": "https://www.nga.gov/content/ngaweb/Collection/art-object-page.79.html"
             },
             {
                 "title": "Ginevra de' Benci [obverse]",
                 "artist": "Leonardo da Vinci",
-                "filename": "A14623.jpg"
+                "filename": "A14623.jpg",
+                "link_resource": "https://www.nga.gov/content/ngaweb/Collection/art-object-page.50724.html"
+            },
+            {
+                "title": "Self-Portrait (Van Gogh)",
+                "artist": "Vincent van Gogh",
+                "filename": "A18663.jpg",
+                "link_resource": "https://www.nga.gov/content/ngaweb/Collection/highlights/highlight106382.html"
+            },
+            {
+                "title": "Young Girl Reading",
+                "artist": "Jean-Honoré Fragonard",
+                "filename": "A23208.jpg",
+                "link_resource": "https://www.nga.gov/content/ngaweb/Collection/highlights/highlight46303.html"
+            },
+            {
+                "title": "Self-Portrait (Judith Leyster)",
+                "artist": "Judith Leyster",
+                "filename": "A21220.jpg",
+                "link_resource": "https://www.nga.gov/content/ngaweb/Collection/highlights/highlight37003.html"
+            },
+            {
+                "title": "Marchesa Elena Grimaldi Cattaneo",
+                "artist": "Sir Anthony van Dyck",
+                "object_date": 1623,
+                "filename": "E11554.jpg",
+                "link_resource": "http://www.nga.gov/content/ngaweb/Collection/highlights/highlight1231.html"
+            },
+            {
+                "title": "Woman Holding a Balance",
+                "artist": "Johannes Vermeer",
+                "filename": "A31036.jpg",
+                "link_resource": "http://www.nga.gov/content/ngaweb/Collection/highlights/highlight1236.html"
+            },
+            {
+                "title": "Boy in a Red Waistcoat",
+                "artist": "Paul Cézanne",
+                "filename": "A11799.jpg",
+                "link_resource": "http://www.nga.gov/content/ngaweb/Collection/highlights/highlight93044.html"
             }
         ],
         "name": "Featured Samples"
